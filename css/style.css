@@ -93,7 +93,7 @@ body {
 .chapter-text {
   font-weight: 900;
   font-size: 44px;
-  line-height: 1.36;
+  line-height: 1.4;
   letter-spacing: 0.06em;
   color: var(--color-text1);
   text-transform: uppercase;
@@ -130,7 +130,7 @@ body {
 
 .menu-text {
   font-weight: 500;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.18;
 }
 
@@ -139,6 +139,19 @@ body {
   font-size: 14px;
   line-height: 1.7;
   color: var(--color-text3);
+}
+
+.menu-text-two-w {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--color-text3);
+}
+
+.menu-text-three {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18;
 }
 
 .chapter-end {
@@ -158,6 +171,7 @@ body {
 /* Start Main Portfolio  */
 
 .menu-btn {
+  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
@@ -191,7 +205,6 @@ body {
 }
 
 .menu-text-two-p {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
   color: var(--color-text3);
@@ -226,7 +239,7 @@ body {
 .adres {
   font-style: normal;
   font-size: 14px;
-  line-height: 1;
+  line-height: 1.14;
   color: var(--color-text1);
   text-decoration: none;
 }
